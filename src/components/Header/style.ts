@@ -12,7 +12,7 @@ export const Image = styled.img`
   margin: 32px auto 32px 120px;
 `;
 export const Banner = styled.img`
-  
+  width: 100% ;
 `;
 
 export const Menu = styled.div`
